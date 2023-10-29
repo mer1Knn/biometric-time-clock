@@ -1,6 +1,3 @@
-Here is the Markdown for your README:
-
-```markdown
 # Biometric Time Clock
 
 A Node.js-based Biometric Time Clock RESTful API to manage employee check-ins, check-outs, and employee data for ABC School.
