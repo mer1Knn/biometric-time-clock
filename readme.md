@@ -33,7 +33,7 @@ ABC School's Biometric Time Clock is a web-based API designed to manage employee
 Before getting started, make sure you have the following installed on your system:
 - Node.js
 - npm
-- MongoDB or another database of your choice
+- MongoDB 
 - Docker (optional)
 
 ## Installation
