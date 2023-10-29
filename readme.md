@@ -40,7 +40,7 @@ Before getting started, make sure you have the following installed on your syste
 1. Clone this repository to your local machine:
    ```
 
-   git clone <git@github.com:mer1Knn/biometric-time-clock.git>
+   git clone git@github.com:mer1Knn/biometric-time-clock.git
 
    ```
 2. Install project dependencies:
